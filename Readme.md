@@ -1,6 +1,6 @@
 # SyntheticNER
 
-###Last commit updates:
+Last commit updates:
 
 - added George Washington to PER names (also fixed Turkish Vaşington for LOC Nominative)
 - updated PER contexts (fix bugs and людина)
@@ -12,7 +12,7 @@
 Conventions are as follows:
 
 PER names - PERson names in Nominative <br />
-PER sents - contexts for PERson names in Nominative ('m' or 'f' slots) <br />
+PER sents - contexts for PERson names in Nominative ('male' or 'female' slots) <br />
 LOC_NOM names - LOCation names in Nominative <br />
 LOC_NOM sents - contexts for LOCations in Nominative ('[???]' slots) <br />
 LOC_ACC_DAT names - LOCation names in Accusative for be and ru, Nominative for en and Dative for tr <br />
